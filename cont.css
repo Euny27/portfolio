@@ -1,0 +1,181 @@
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    min-height: 50px;
+    background-color: white;
+}
+.navlink{
+    margin: 0.5em;
+    border: 0.2em solid rgb(153, 153, 245);
+    padding: 0.2em;
+    font-size: 1.5em;
+    transition: ease-out 1s all;
+}
+.navlink:hover {
+    background-color: rgb(204, 151, 83);
+    color: white;
+}
+
+
+/* styling contacts page*/
+.contacts{
+    width: 100%;
+    height: 1000px;
+    position: relative;
+    background: blueviolet;
+}
+header img{
+  position: absolute;
+  left: 500px;
+  top: 50px;
+}
+header h1{
+    position: absolute;
+    left: 580px;
+    top: 250px;
+    font-size: 30px;
+}
+header p{
+    position: absolute;
+    left: 600px;
+    top: 300px;
+    font-size: 25px;
+}
+.cont1{
+    position: absolute;
+    left: 500px;
+    top:400px;
+}
+.lbl1{
+    position: absolute;
+    left: 600px;
+    top: 400px;
+
+}
+.in1{
+    position: absolute;
+    left: 600px;
+    top: 420px;
+
+}
+.lbl2{
+    position: absolute;
+    left: 600px;
+    top: 450px;
+}
+.in2{
+    position: absolute;
+    left: 600px;
+    top: 470px;
+}
+.lbl3{
+    position: absolute;
+    left: 600px;
+    top: 490px;
+}
+.in3{
+    position: absolute;
+    left: 600px;
+    top: 510px;
+}
+.lbl4 {
+    position: absolute;
+    left: 600px;
+    top: 530px;
+}
+.in4{
+    position: absolute;
+    left: 600px;
+    top: 550px;
+}
+.in5{
+    position: absolute;
+    left: 600px;
+    top:570px;
+}
+.lbl5{
+    position: absolute;
+    left: 600px;
+    top: 590px;
+}
+.in6{
+    position: absolute;
+    left: 600px;
+    top: 610px;
+}
+.lbl6{
+    position: absolute;
+    left: 600px;
+    top: 630px;
+}
+.in7{
+    position: absolute;
+    left: 600px;
+    top: 650px;
+}
+.lbl7{
+    position: absolute;
+    left: 600px;
+    top: 680px;
+}
+.in8{
+    position: absolute;
+    left: 600px;
+    top: 700px;
+}
+.lbl8{
+    position: absolute;
+    left: 600px;
+    top: 720px;
+}
+.lbl9{
+    position: absolute;
+    left: 600px;
+    top: 740px;
+}
+.sel1{
+    position: absolute;
+    left: 600px;
+    top: 760px;
+}
+.lbl10{
+    position: absolute;
+    left: 600px;
+    top: 780px;
+}
+.txt1{
+    position: absolute;
+    left: 600px;
+    top: 800px;
+}
+.in10{
+    position: absolute;
+    left: 630px;
+    top: 890px;
+}
+footer{
+    width: 100%;
+    height: 150px;
+    background-color:rgb(204, 151, 83);
+  position: relative;
+}
+footer ul{
+    display: flex;
+    position: absolute;
+    top: 60px;
+    left: 700px;
+}
+footer ul li i{
+    padding: 10px;
+}
+footer ul li{
+    list-style: none;
+}
+footer p{
+
+    position: absolute;
+    left: 700px;
+    top: 100px;
+}
